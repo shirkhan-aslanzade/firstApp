@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world!");​
             // Hi Shirkhan. Have a nice day.
-            //Nice Collaboration, Andrii
+            // Anna's comment.
         }
     }
 }
